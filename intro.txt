@@ -1,0 +1,9 @@
+Hello!
+
+My name is Frankie,
+
+I have always been extreemly interested in technology and how things works. I have dabbled in many diffrent types of technology. i have been an Electronics Technician for
+over 10 years. I have self learned the c language and mainly use it for programming embedded avr microcontrollers. i am currently working as an Electronics Engineer building 
+Electro-Mechanical camera stabilization systems for the film industry. I am a Veteran of the US Navy where i was an avionics and weapons systems technician for FA-18's. I have
+an in-depth knowledge of analog and digital electronics theory and circuit design. I want to become more comfortable with higher level programming languages such as java and python.
+my goal is to be able to design embedded systems from the PCB's to the user application.
